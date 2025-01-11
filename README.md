@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hamzads11
+- 👋 Author- Hamza Mustafa
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on A python dev...
